@@ -27,7 +27,7 @@ Once the database is set up, seed it with some initial data (If needed) by runni
 npm run seed
 ```
 ## 🎯 Usage
-[Walkthrough Video 🎥](MAKE WALKTHROUGH!!!!!!)
+[Walkthrough Video 🎥](https://drive.google.com/file/d/15pGhMljzNMGSOfN_zJ3VU38aJNxPds6s/view?usp=drive_link)
 
 Once you've successfully installed all the required dependencies, the application is ready for use. Invoke it by running the following command:
 
