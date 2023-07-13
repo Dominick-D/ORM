@@ -1,5 +1,5 @@
 # 📂 E-Commerce Back End 📂
-![License: Apache](https://img.shields.io/badge/License-Apache-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📚 Description
 This is a back-end application for an e-commerce site. This application uses Express.js API and Sequelize to interact with a MySQL database. This application displays creation, reading, updating, and deletion (CRUD) operations in the database.
@@ -32,7 +32,7 @@ npm run seed
 Once you've successfully installed all the required dependencies, the application is ready for use. Invoke it by running the following command:
 
 ```bash
-node index.js
+node server.js
 ```
 You'll be able to perform CRUD operations for categories, products, and tags in your e-commerce database.
 
